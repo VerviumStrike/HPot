@@ -15,6 +15,7 @@ To reset settings.json:
 # Note
 
  1. Recommend NodeJS version is 12 or above.
+ 2. Honeypot [Website](https://www.projecthoneypot.org/index.php).
 
 # Dependancies
 
